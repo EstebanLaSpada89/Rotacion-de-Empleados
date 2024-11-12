@@ -9,8 +9,9 @@ En la empresa, hemos identificado un problema preocupante: una alta tasa de rota
 
 En este análisis se busca identificar las principales causas de la rotación de empleados mediante un análisis de los datos históricos, lo cual permitirá proponer estrategias para reducir esta problemática. El proyecto seguirá los siguientes pasos:
 
-## Preprocesamiento de Datos: Revisión de datos faltantes y eliminación o imputación según corresponda.
+## Preprocesamiento de Datos: 
 
+Revisión de datos faltantes y eliminación o imputación según corresponda.
 Análisis Exploratorio de Datos (EDA): Exploración de variables categóricas y numéricas para detectar patrones de comportamiento.
 Modelos Predictivos: Implementación de modelos para predecir la probabilidad de abandono de empleados.
 
