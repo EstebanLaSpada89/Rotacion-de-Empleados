@@ -21,10 +21,17 @@ Algunas variables presentan una cantidad considerable de valores nulos, lo que p
 ## Diccionario de Variables
 
 id: Identificador único de cada empleado.
+
 sexo: Género del empleado.
+
 educacion: Nivel de educación alcanzado por el empleado.
+
 anos_en_puesto: Años que el empleado ha estado en su posición actual.
+
 satisfaccion_trabajo: Nivel de satisfacción del empleado con su trabajo (escala de 1 a 5).
+
 implicacion: Nivel de implicación del empleado en la empresa (escala de 1 a 5).
+
 conciliacion: Evaluación de la conciliación entre vida laboral y personal del empleado.
+
 abandono: Indicador de si el empleado ha abandonado la empresa (1 = Sí, 0 = No).
